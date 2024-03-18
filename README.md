@@ -1,6 +1,6 @@
 # Data Scienece and Analytics Student
 
-## A poet, The Author of the Book "Aadhunikam"/"ఆధునికం" [https://wissenbookstore.com/product/aadhunikam/]
+## A poet, The Author of the Book ["Aadhunikam"/"ఆధునికం"](https://wissenbookstore.com/product/aadhunikam/)
 
 ### About Me
 Welcome to the Intersection of Data and Story Telling
